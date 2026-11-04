@@ -1,0 +1,4 @@
+text,prediction,prediction_label
+delicious pav bhaji with butter pav,1,Pav Bhaji
+chicken tikka with mint chutney,0,Not Pav Bhaji
+street food and masala bhaji,1,Pav Bhaji
